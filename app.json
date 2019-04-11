@@ -1,0 +1,9 @@
+{
+  "name": "blackgotest",
+  "description": "Go Getting Started Example App",
+  "keywords": [
+    "go"
+  ],
+  "website": "https://github.com/blackreaven/blackgotest",
+  "repository": "https://github.com/blackreaven/blackgotest"
+}
